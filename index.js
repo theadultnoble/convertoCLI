@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("CLI tool is working!");
+console.log("CLI tool ran!");
